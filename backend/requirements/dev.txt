@@ -1,0 +1,7 @@
+-r base.txt
+django-debug-toolbar==5.1.0
+django-extensions==4.1
+ipython==9.2.0
+coverage==7.8.0
+factory-boy==3.3.3
+pytest-django==4.11.1
